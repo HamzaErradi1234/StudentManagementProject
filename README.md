@@ -1,0 +1,1 @@
+dans ce projet nous avons realise plateforme de gestion des etudiants avec utilisation des technologies efficaces comme Java et JavaFX pour construire les intefaces graphiques en integrant la base de donne par JDBC 
